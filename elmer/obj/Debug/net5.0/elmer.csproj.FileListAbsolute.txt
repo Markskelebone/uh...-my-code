@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.exe
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.deps.json
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.runtimeconfig.json
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.runtimeconfig.dev.json
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.dll
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\ref\elmer.dll
+C:\Users\user\Desktop\elmer\bin\Debug\net5.0\elmer.pdb
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.AssemblyInfo.cs
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.dll
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\ref\elmer.dll
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.pdb
+C:\Users\user\Desktop\elmer\obj\Debug\net5.0\elmer.genruntimeconfig.cache
